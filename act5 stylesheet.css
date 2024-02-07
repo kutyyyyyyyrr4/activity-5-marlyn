@@ -1,0 +1,26 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.container {
+    width: 500px;
+    height: 400px;
+    padding: auto;
+    border: 20px;
+    border-radius: 25px;
+    background-color: pink;
+    text-align: center;
+    margin: 100px auto;
+}
+
+.container h1 {
+    color: blueviolet;
+}
+
+.container #demo {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
